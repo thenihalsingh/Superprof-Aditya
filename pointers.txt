@@ -1,0 +1,13 @@
+1) Namespace?
+2) Class?
+3) Entry Point of a Program? (Main)
+4) Variables
+5) Data Types
+6) How to declare and initiate the Variables
+7) Console.WriteLine() / Console.Write()
+8) Types of commenting
+
+9) Type Casting
+10) User Input
+
+11) Types of Operators
