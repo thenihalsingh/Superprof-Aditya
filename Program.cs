@@ -159,7 +159,7 @@ namespace Superprof_Aditya_New
                 Console.WriteLine("false");
             }
 
-            Console.WriteLine("------------");
+            Console.WriteLine("-----------");
             /*
                 3) Logical Operators
             */            
