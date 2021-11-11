@@ -9,13 +9,16 @@ namespace Superprof_Aditya_New
         /* Multi line Comment */
         static void Main(string[] args)
         {
-            ConiditionalStatements cs = new ConiditionalStatements();
-            cs.IfElse();
-            cs.SwitchCases();
-            Loops lp = new Loops();
-            lp.WhileLoop();
-            lp.DoWhileLoop();
-            lp.ForLoop();
+            ArraysClass ac = new ArraysClass();
+            ac.LearnArrays();
+
+            // ConiditionalStatements cs = new ConiditionalStatements();
+            // cs.IfElse();
+            // cs.SwitchCases();
+            // Loops lp = new Loops();
+            // lp.WhileLoop();
+            // lp.DoWhileLoop();
+            // lp.ForLoop();
 
             //string abc ; //declaration of variable
 
