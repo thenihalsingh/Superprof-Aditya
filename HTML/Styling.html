@@ -2,9 +2,15 @@
 <head>
     <title>Styling</title>
     <style>
-        h6{
-            color: blue;
+        /* class */
+        .abc{
+            color: red;
             font-size: 18px;
+        }
+        /* id */
+        #xyz{
+            color: blue;
+            font-size: 18px; 
         }
     </style>
     <link href="/style.css" rel="stylesheet">
@@ -12,9 +18,9 @@
 <body>
     <p>
         Three types of Styling
-        <br><span style="color: red; font-size: 18px;">Inline</span> 
-        <br> <h6>Internal</h6>
-        <br> <h5>External</h5>
+        <br><span id="xyz">Inline</span> 
+        <br> <span class="abc">Internal</span>
+        <br> <span class="abc">External</span>
     </p>
 </body>
 </html>
